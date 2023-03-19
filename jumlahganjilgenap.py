@@ -1,0 +1,11 @@
+angka = '123456789'
+panjang_angka = len(angka)
+print(angka[0])
+print(angka[1])
+print(angka[3])
+print(angka[4])
+print(angka[5])
+print(angka[6])
+print(angka[7])
+print(angka[8])
+print(panjang_angka)

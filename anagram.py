@@ -1,0 +1,1 @@
+inp = input('masukkan input : ')
